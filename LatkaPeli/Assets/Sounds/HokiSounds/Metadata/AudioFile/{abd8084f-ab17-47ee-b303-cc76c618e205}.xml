@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{abd8084f-ab17-47ee-b303-cc76c618e205}">
+		<property name="assetPath">
+			<value>Foley/Tolppa/Tolppa6.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.39679166666666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9b991a57-f7bc-43c7-950f-c5c1a2ecd955}</destination>
+		</relationship>
+	</object>
+</objects>

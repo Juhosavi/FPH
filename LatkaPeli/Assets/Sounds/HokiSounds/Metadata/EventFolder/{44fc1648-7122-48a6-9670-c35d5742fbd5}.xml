@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{44fc1648-7122-48a6-9670-c35d5742fbd5}">
+		<property name="name">
+			<value>Tolppa</value>
+		</property>
+		<relationship name="folder">
+			<destination>{24363ee1-bc9e-498e-8962-78951169d29d}</destination>
+		</relationship>
+	</object>
+</objects>

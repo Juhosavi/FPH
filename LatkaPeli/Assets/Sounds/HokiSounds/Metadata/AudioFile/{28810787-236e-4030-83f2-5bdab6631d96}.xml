@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{28810787-236e-4030-83f2-5bdab6631d96}">
+		<property name="assetPath">
+			<value>Foley/Luistelu/Luistelu13.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.41483333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9b991a57-f7bc-43c7-950f-c5c1a2ecd955}</destination>
+		</relationship>
+	</object>
+</objects>

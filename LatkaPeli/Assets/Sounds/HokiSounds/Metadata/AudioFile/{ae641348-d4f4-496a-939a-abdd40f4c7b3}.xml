@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ae641348-d4f4-496a-939a-abdd40f4c7b3}">
+		<property name="assetPath">
+			<value>Vanhat/Ketterä Goal Horn.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>49.972244897959186</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9b991a57-f7bc-43c7-950f-c5c1a2ecd955}</destination>
+		</relationship>
+	</object>
+</objects>

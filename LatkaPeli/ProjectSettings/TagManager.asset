@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - puck
+  - Out of Play
+  - Light
+  - puckcatch
+  - fakepuck
+  - HomeGoalDetector
+  - AwayGoalDetector
+  - elakoskekiekoon
+  - spawn
+  - glass
+  - tolppa
+  - Barrier
+  - ReplayPuck
+  - ice
+  - BarrierCollider
+  - HomeOffsideTrigger
+  - AwayOffsideTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - test
+  - Water
+  - UI
+  - Player
+  - Puck
+  - Stick
+  - Enemy
+  - Barrier
+  - Ice
+  - Goal
+  - FakePuck
+  - ReplayPuck
+  - TrainingObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

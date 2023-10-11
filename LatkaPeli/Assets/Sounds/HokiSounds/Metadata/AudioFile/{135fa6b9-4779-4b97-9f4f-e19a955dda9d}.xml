@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{135fa6b9-4779-4b97-9f4f-e19a955dda9d}">
+		<property name="assetPath">
+			<value>Foley/Laita/Laita9.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.62441666666666662</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9b991a57-f7bc-43c7-950f-c5c1a2ecd955}</destination>
+		</relationship>
+	</object>
+</objects>

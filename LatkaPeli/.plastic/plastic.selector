@@ -1,0 +1,4 @@
+repository "LatkaPeli@MR_Taitotalo@cloud"
+  path "/"
+    br "/main"
+    co "/main"

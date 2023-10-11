@@ -1,0 +1,1201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8875265273133108421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pelaaja/Vedot/LamariHiljaa
+  m_EditorClassIdentifier: 
+  Path: event:/Pelaaja/Vedot/LamariHiljaa
+  Guid:
+    Data1: -299986933
+    Data2: 1143824136
+    Data3: -2015654999
+    Data4: -323055755
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 300
+--- !u!114 &-8548347099821229302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Sounds/HokiSounds/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638193377579281813
+  FileSizes:
+  - Name: 
+    Value: 1682
+  Exists: 1
+--- !u!114 &-6776362776789410143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Tolppa/TolppaMedium
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Tolppa/TolppaMedium
+  Guid:
+    Data1: -1504675023
+    Data2: 1158822228
+    Data3: 620979363
+    Data4: -1374175383
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 490
+--- !u!114 &-6458656443745691161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Reuna/ReunaHiljaa
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Reuna/ReunaHiljaa
+  Guid:
+    Data1: 150477118
+    Data2: 1257077525
+    Data3: -1560499319
+    Data4: 736535330
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 80
+  Length: 700
+--- !u!114 &-6322484877032892003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Lasi/GlassHitHiljaa
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Lasi/GlassHitHiljaa
+  Guid:
+    Data1: 1114510098
+    Data2: 1261360485
+    Data3: 425220999
+    Data4: -805979886
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 65
+  Length: 600
+--- !u!114 &-5761585717368840253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Sounds/HokiSounds/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638133582361393470
+  FileSizes:
+  - Name: 
+    Value: 1682
+  Exists: 1
+--- !u!114 &-5114714315399593929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Reuna/ReunaHiljaa
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Reuna/ReunaHiljaa
+  Guid:
+    Data1: 150477118
+    Data2: 1257077525
+    Data3: -1560499319
+    Data4: 736535330
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 80
+  Length: 700
+--- !u!114 &-4277367466222551722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Reuna/ReunaMedium
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Reuna/ReunaMedium
+  Guid:
+    Data1: -756149101
+    Data2: 1214126312
+    Data3: -601991293
+    Data4: 1020442823
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 80
+  Length: 700
+--- !u!114 &-3475203686114215109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Sounds/HokiSounds/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638193377547249152
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-3386355434424679982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Lasi/GlassHitKova
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Lasi/GlassHitKova
+  Guid:
+    Data1: -975556821
+    Data2: 1256113555
+    Data3: 1910924213
+    Data4: 1520005395
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 65
+  Length: 600
+--- !u!114 &-3227093861436915575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Tolppa/TolppaKova
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Tolppa/TolppaKova
+  Guid:
+    Data1: 649598973
+    Data2: 1288997181
+    Data3: 1393006012
+    Data4: -1450929413
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 490
+--- !u!114 &-3033932395509112309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Tolppa/TolppaHiljaa
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Tolppa/TolppaHiljaa
+  Guid:
+    Data1: -1919342248
+    Data2: 1164657235
+    Data3: 1570876086
+    Data4: -36041226
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 490
+--- !u!114 &-2904972399534317501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Game/GoalHorn
+  m_EditorClassIdentifier: 
+  Path: event:/Game/GoalHorn
+  Guid:
+    Data1: 613696753
+    Data2: 1188209354
+    Data3: 501754775
+    Data4: -1577703383
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12012
+--- !u!114 &-2525550179077392529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pelaaja/Vedot/LamariHiljaa
+  m_EditorClassIdentifier: 
+  Path: event:/Pelaaja/Vedot/LamariHiljaa
+  Guid:
+    Data1: -299986933
+    Data2: 1143824136
+    Data3: -2015654999
+    Data4: -323055755
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 300
+--- !u!114 &-2515254353851616788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Tolppa/TolppaMedium
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Tolppa/TolppaMedium
+  Guid:
+    Data1: -1504675023
+    Data2: 1158822228
+    Data3: 620979363
+    Data4: -1374175383
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 490
+--- !u!114 &-2485693331987503409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Game/Whistle
+  m_EditorClassIdentifier: 
+  Path: event:/Game/Whistle
+  Guid:
+    Data1: -1805867501
+    Data2: 1317630888
+    Data3: 875974055
+    Data4: -846190987
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2000
+--- !u!114 &-1893326830428680203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Game/EndOfPerioid
+  m_EditorClassIdentifier: 
+  Path: event:/Game/EndOfPerioid
+  Guid:
+    Data1: -587974222
+    Data2: 1076460059
+    Data3: 1226446980
+    Data4: 1139623737
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4000
+--- !u!114 &-1056264291992539986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Reuna/ReunaMedium
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Reuna/ReunaMedium
+  Guid:
+    Data1: -756149101
+    Data2: 1214126312
+    Data3: -601991293
+    Data4: 1020442823
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 80
+  Length: 700
+--- !u!114 &-249049262302427881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pelaaja/Vedot/LamariKova
+  m_EditorClassIdentifier: 
+  Path: event:/Pelaaja/Vedot/LamariKova
+  Guid:
+    Data1: 1114225038
+    Data2: 1123760873
+    Data3: 1355963019
+    Data4: -418798316
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 400
+--- !u!114 &-220878711206817426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Tolppa/TolppaHiljaa
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Tolppa/TolppaHiljaa
+  Guid:
+    Data1: -1919342248
+    Data2: 1164657235
+    Data3: 1570876086
+    Data4: -36041226
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 490
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -8548347099821229302}
+  - {fileID: -3475203686114215109}
+  EditorEvents:
+  - {fileID: 4910635306309857112}
+  - {fileID: -2525550179077392529}
+  - {fileID: -6322484877032892003}
+  - {fileID: 5261433719680025460}
+  - {fileID: -3386355434424679982}
+  - {fileID: -6776362776789410143}
+  - {fileID: -5114714315399593929}
+  - {fileID: -3033932395509112309}
+  - {fileID: 8104810355518406898}
+  - {fileID: 1686417481845713686}
+  - {fileID: -4277367466222551722}
+  - {fileID: 4540633185172551746}
+  - {fileID: 7856658177361639703}
+  - {fileID: 3646755924687948154}
+  - {fileID: 7783124162802627147}
+  - {fileID: 3115244767975750497}
+  - {fileID: 928590770990049010}
+  - {fileID: 6867463404776774881}
+  - {fileID: 4621933825418126731}
+  - {fileID: 8005056263338946791}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -3475203686114215109}
+  StringsBanks:
+  - {fileID: -8548347099821229302}
+  cacheTime: 638193377579281813
+  cacheVersion: 131601
+--- !u!114 &145985437434898799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/MenuMusic
+  m_EditorClassIdentifier: 
+  Path: event:/Music/MenuMusic
+  Guid:
+    Data1: 127614207
+    Data2: 1150409533
+    Data3: 1468893862
+    Data4: -1334784970
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 137000
+--- !u!114 &928590770990049010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Tolppa/TolppaKova
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Tolppa/TolppaKova
+  Guid:
+    Data1: 649598973
+    Data2: 1288997181
+    Data3: 1393006012
+    Data4: -1450929413
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 490
+--- !u!114 &953110749351474695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Lasi/GlassHitKova
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Lasi/GlassHitKova
+  Guid:
+    Data1: -975556821
+    Data2: 1256113555
+    Data3: 1910924213
+    Data4: 1520005395
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 65
+  Length: 600
+--- !u!114 &1686417481845713686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pelaaja/Vedot/LamariKova
+  m_EditorClassIdentifier: 
+  Path: event:/Pelaaja/Vedot/LamariKova
+  Guid:
+    Data1: 1114225038
+    Data2: 1123760873
+    Data3: 1355963019
+    Data4: -418798316
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 400
+--- !u!114 &2016893743284570902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Lasi/GlassHitHiljaa
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Lasi/GlassHitHiljaa
+  Guid:
+    Data1: 1114510098
+    Data2: 1261360485
+    Data3: 425220999
+    Data4: -805979886
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 65
+  Length: 600
+--- !u!114 &2372992429632804972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Reuna/ReunaKova
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Reuna/ReunaKova
+  Guid:
+    Data1: -423033607
+    Data2: 1329026164
+    Data3: 1519279758
+    Data4: 1202032277
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 80
+  Length: 700
+--- !u!114 &2434041336912576586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Ymp\xE4rist\xF6/Ambient"
+  m_EditorClassIdentifier: 
+  Path: "event:/Ymp\xE4rist\xF6/Ambient"
+  Guid:
+    Data1: -798812962
+    Data2: 1123376459
+    Data3: -1967816015
+    Data4: 186130769
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 166190
+--- !u!114 &3115244767975750497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Reuna/ReunaKova
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Reuna/ReunaKova
+  Guid:
+    Data1: -423033607
+    Data2: 1329026164
+    Data3: 1519279758
+    Data4: 1202032277
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 80
+  Length: 700
+--- !u!114 &3646755924687948154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pelaaja/Luistimet/NormiLuistelu
+  m_EditorClassIdentifier: 
+  Path: event:/Pelaaja/Luistimet/NormiLuistelu
+  Guid:
+    Data1: -813093385
+    Data2: 1242231229
+    Data3: 1146160528
+    Data4: -829578711
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 500
+--- !u!114 &4540633185172551746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Game/EndOfPerioid
+  m_EditorClassIdentifier: 
+  Path: event:/Game/EndOfPerioid
+  Guid:
+    Data1: -587974222
+    Data2: 1076460059
+    Data3: 1226446980
+    Data4: 1139623737
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4000
+--- !u!114 &4621933825418126731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Ice/Ice
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Ice/Ice
+  Guid:
+    Data1: 751472139
+    Data2: 1107995755
+    Data3: 1433275524
+    Data4: 1212525288
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 60
+--- !u!114 &4910635306309857112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pelaaja/KiekkoHallussa/Hallussa
+  m_EditorClassIdentifier: 
+  Path: event:/Pelaaja/KiekkoHallussa/Hallussa
+  Guid:
+    Data1: -578553856
+    Data2: 1074054682
+    Data3: -756298851
+    Data4: 1995599397
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 600
+--- !u!114 &5261433719680025460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Game/Whistle
+  m_EditorClassIdentifier: 
+  Path: event:/Game/Whistle
+  Guid:
+    Data1: -1805867501
+    Data2: 1317630888
+    Data3: 875974055
+    Data4: -846190987
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2000
+--- !u!114 &5398126451065634697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Ice/Ice
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Ice/Ice
+  Guid:
+    Data1: 751472139
+    Data2: 1107995755
+    Data3: 1433275524
+    Data4: 1212525288
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 60
+--- !u!114 &5685654127893406213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pelaaja/Luistimet/NormiLuistelu
+  m_EditorClassIdentifier: 
+  Path: event:/Pelaaja/Luistimet/NormiLuistelu
+  Guid:
+    Data1: -813093385
+    Data2: 1242231229
+    Data3: 1146160528
+    Data4: -829578711
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 500
+--- !u!114 &6516238683178097535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pelaaja/KiekkoHallussa/Hallussa
+  m_EditorClassIdentifier: 
+  Path: event:/Pelaaja/KiekkoHallussa/Hallussa
+  Guid:
+    Data1: -578553856
+    Data2: 1074054682
+    Data3: -756298851
+    Data4: 1995599397
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 600
+--- !u!114 &6867463404776774881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/MenuMusic
+  m_EditorClassIdentifier: 
+  Path: event:/Music/MenuMusic
+  Guid:
+    Data1: 127614207
+    Data2: 1150409533
+    Data3: 1468893862
+    Data4: -1334784970
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 137000
+--- !u!114 &6981510899490743471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pelaaja/Vedot/LamariMedium
+  m_EditorClassIdentifier: 
+  Path: event:/Pelaaja/Vedot/LamariMedium
+  Guid:
+    Data1: 1884844024
+    Data2: 1088169194
+    Data3: -1298435399
+    Data4: 363244166
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 300
+--- !u!114 &7056920498392978763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Sounds/HokiSounds/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638133582361383504
+  FileSizes: []
+  Exists: 1
+--- !u!114 &7423957864205385971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Lasi/GlassHitMedium
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Lasi/GlassHitMedium
+  Guid:
+    Data1: -1275756412
+    Data2: 1283840526
+    Data3: 1243456182
+    Data4: -1179937719
+  Banks:
+  - {fileID: 7056920498392978763}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 65
+  Length: 600
+--- !u!114 &7783124162802627147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pelaaja/Vedot/LamariMedium
+  m_EditorClassIdentifier: 
+  Path: event:/Pelaaja/Vedot/LamariMedium
+  Guid:
+    Data1: 1884844024
+    Data2: 1088169194
+    Data3: -1298435399
+    Data4: 363244166
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 300
+--- !u!114 &7856658177361639703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Game/GoalHorn
+  m_EditorClassIdentifier: 
+  Path: event:/Game/GoalHorn
+  Guid:
+    Data1: 613696753
+    Data2: 1188209354
+    Data3: 501754775
+    Data4: -1577703383
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12012
+--- !u!114 &8005056263338946791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Ymp\xE4rist\xF6/Ambient"
+  m_EditorClassIdentifier: 
+  Path: "event:/Ymp\xE4rist\xF6/Ambient"
+  Guid:
+    Data1: -798812962
+    Data2: 1123376459
+    Data3: -1967816015
+    Data4: 186130769
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 166190
+--- !u!114 &8104810355518406898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Kiekko/Lasi/GlassHitMedium
+  m_EditorClassIdentifier: 
+  Path: event:/Kiekko/Lasi/GlassHitMedium
+  Guid:
+    Data1: -1275756412
+    Data2: 1283840526
+    Data3: 1243456182
+    Data4: -1179937719
+  Banks:
+  - {fileID: -3475203686114215109}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 65
+  Length: 600

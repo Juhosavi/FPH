@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{7a564aa9-8721-4280-b860-6bf0b270f4b7}">
+		<property name="name">
+			<value>Vedot</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a94b2130-1c9c-4baf-938f-f92335dcad2d}</destination>
+		</relationship>
+	</object>
+</objects>
